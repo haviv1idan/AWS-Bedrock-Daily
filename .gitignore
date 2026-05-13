@@ -1,0 +1,7 @@
+lambda/*/
+.env
+
+terraform/*.tfvars
+terraform/.terraform/
+terraform/.terraform.*
+terraform/terraform.*
